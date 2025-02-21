@@ -11,6 +11,7 @@ This project obtains different kind of files (images, video, text), classify the
 ## Environment Setup
 Two ways to set up the project, both described below.
 
+
 ### Via SSH Authentication
 1. Request for read/write access permission to the repository.
 2. Create a SSH key as described [here](https://cloud.google.com/source-repositories/docs/authentication?&_ga=2.241617026.-1422112553.1644353129#generate_a_key_pair). Use *rsa* for *KEY_TYPE*. Thios will create a pair of files, one of the has the *.pub* file.
