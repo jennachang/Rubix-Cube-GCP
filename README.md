@@ -1,5 +1,5 @@
 # Rubix Cube Structure Data Project
-This project obtains different kind of files (images, video, text), classify them, obtain relevant information and metadata and stores the information in a BigQuery table for Analysis. 
+This project obtains different kind of files (images, video, text), classify them, obtain relevant information and metadata and stores the information in a BigQuery table for Analysis.  
 
 ## Required tools
 1. Code editor. Pycharm or VSCode
@@ -27,3 +27,4 @@ Two ways to set up the project, both described below.
 
 ## Commit conventions
 We are following the commit conventional messages described in the [conventional commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+
